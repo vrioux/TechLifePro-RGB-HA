@@ -1,8 +1,7 @@
-# TechLife Bulb - Custom Integration
+# TechLife Pro - Custom Integration
 This light integration controls your techlife RGB lights without flashing or modifying.
 Actually im working to integrate for white lights.
 Note: TechLife Pro only support send messages and cannot sub for obtain the actual state of the light.
-
 
 ## Requirements:
 In order to make the light (or lights) work you will need to:

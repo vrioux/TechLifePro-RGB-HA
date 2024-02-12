@@ -1,0 +1,10 @@
+{
+  "domain": "techlife",
+  "name": "TechLifePro Control",
+  "version": "1.0",
+  "documentation": "https://github.com/vrioux/TechLifePro-RGB-HA.git",
+  "issue_tracker": "https://github.com/vrioux/TechLifePro-RGB-HA.git",
+  "dependencies": [],
+  "codeowners": ["@vrioux"],
+  "requirements": ["paho-mqtt>=1.6.1"]
+}
